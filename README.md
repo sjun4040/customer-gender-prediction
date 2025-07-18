@@ -17,11 +17,11 @@
    - 데이터 전처리
      데이터 전처리 과정에선 결측치 처리, 인코딩, 스케일링을 적용했습니다
    - 4가지 모델
-     Logistic Regression, Decision Tree, RandomForest, XGBoost를 사용해 성능을 비교하였습니다
+     Logistic Regression, Decision Tree, RandomForest, XGBoost를 사용해 성능을 비교하였습니다<br>
      RandomizedSearchCV를 이용해 최종 모델을 선정하였습니다
 
 ### 4. 결과
    최종 선택 모델 : RandomForest
-   4가지 모델의 초기 정확도가 비슷해 RandomizedSearchCV를 이용해 CrossValidation을 진행하였습니다
+   4가지 모델의 초기 정확도가 비슷해 RandomizedSearchCV를 이용해 CrossValidation을 진행하였습니다<br>
    CrossValidation 결과, 약  65%의 정확도를 달성하며, RandomForest가 최적 모델임을
    확인했습니다.
