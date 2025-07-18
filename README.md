@@ -25,6 +25,7 @@
    4가지 모델의 초기 정확도가 비슷해 RandomizedSearchCV를 이용해 CrossValidation을 진행하였습니다<br>
    CrossValidation 결과, 약  65%의 정확도를 달성하며, RandomForest가 최적 모델임을
    확인했습니다.
+   
 | 모델         | 최적 하이퍼파라미터              | 교차 검증 정확도(acc) |<br>
 | 로지스틱 회귀 | `{'penalty': 'l2', 'C': 0.1}` | 0.6346 |<br>
 | 결정 트리 | `{'max_depth': 3, 'min_samples_leaf': 16, 'min_samples_split': 2}` | 0.6443 |<br>
