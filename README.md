@@ -29,6 +29,7 @@
 ### 5. 사용기술
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
