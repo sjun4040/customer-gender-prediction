@@ -25,3 +25,9 @@
    4가지 모델의 초기 정확도가 비슷해 RandomizedSearchCV를 이용해 CrossValidation을 진행하였습니다<br>
    CrossValidation 결과, 약  65%의 정확도를 달성하며, RandomForest가 최적 모델임을
    확인했습니다.
+
+### 5. 사용기술
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
