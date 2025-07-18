@@ -1,10 +1,10 @@
 🛍️고객데이터 기반 성별 예측 모델
 
 0. 파일구조
-├── data/
-│   ├── X.csv
-│   └── y.csv
-├── customer_gender_prediction.ipynb
+├── data/<br>
+│   ├── X.csv<br>
+│   └── y.csv<br>
+├── customer_gender_prediction.ipynb<br>
 └── README.md
 
 2. 프로젝트 소개
